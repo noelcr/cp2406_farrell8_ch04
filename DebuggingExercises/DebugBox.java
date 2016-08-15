@@ -11,9 +11,9 @@ public class DebugBox
    }
    public DebugBox(int width, int length, int height)
    {
-      width = width;
-      length = length;
-      height = height;
+      this.width = width;
+      this.length = length;
+      this.height = height;
    }
    public void showData()
    {
